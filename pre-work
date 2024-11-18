@@ -5,11 +5,11 @@ print('You can ask about, the weather, history, games, sports, book, movie and m
 
 prompt = input('\nWhat would you like to know? (1-5) ')
 if prompt == '1' or prompt == 'weather':
-  print('The weather is sunny today!')
-  print('\n Goodbye. See you tomorrow!')
+  print('The weather will be raining tomorrow!')
+  print('\n Goodbye. Thank you for using ChatBot!')
 
 elif prompt == '2' or prompt == 'history':
-  print('The history of the U.S.A. is that it was founded in 1776')
+  print('U.S.A of inhabited by Native Americans before Christopher Columbus came in 1776!')
   print('\n Goodbye. See you tomorrow!')
 elif prompt == '3'or prompt == 'games':
   print('The games that I know are Minecraft, Roblox, and Fortnite')
